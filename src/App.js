@@ -154,7 +154,7 @@ export default function App() {
           </div>
           <div className="bg-white/10 p-4 rounded-lg">
             <img 
-              src="/f1_curve.png" 
+              src="/F1_curve.png" 
               alt="F1 Curve" 
               className="w-full rounded-lg shadow-lg hover:scale-105 transition-transform duration-300"
             />
